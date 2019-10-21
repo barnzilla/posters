@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SCRIBUSUTF8NEW Version="1.5.4">
-    <DOCUMENT ANZPAGES="1" PAGEWIDTH="4320" PAGEHEIGHT="2880" BORDERLEFT="18" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" PRESET="0" BleedTop="9" BleedLeft="9" BleedRight="9" BleedBottom="9" ORIENTATION="1" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="2" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="22" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="9" LANGUAGE="en_GB" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20.0016" MAJGRID="100.0008" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0016" ScratchLeft="100.0008" ScratchRight="100.0008" ScratchTop="20.0016" GapHorizontal="0" GapVertical="40.0032" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0008" dispY="10.0008" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+    <DOCUMENT ANZPAGES="1" PAGEWIDTH="4320" PAGEHEIGHT="2880" BORDERLEFT="18" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" PRESET="0" BleedTop="9" BleedLeft="9" BleedRight="9" BleedBottom="9" ORIENTATION="1" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="2" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="34" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="9" LANGUAGE="en_GB" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20.0016" MAJGRID="100.0008" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0016" ScratchLeft="100.0008" ScratchRight="100.0008" ScratchTop="20.0016" GapHorizontal="0" GapVertical="40.0032" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0008" dispY="10.0008" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
         <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
@@ -9,7 +9,9 @@
         <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
         <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
         <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Dark blue" SPACE="RGB" R="34" G="170" B="225"/>
         <COLOR NAME="Dark gray" SPACE="RGB" R="128" G="128" B="128"/>
+        <COLOR NAME="Light blue" SPACE="RGB" R="234" G="247" B="252"/>
         <COLOR NAME="Light gray" SPACE="RGB" R="239" G="239" B="239"/>
         <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
         <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
@@ -45,20 +47,24 @@
             </TableBorderBottom>
         </CellStyle>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <LAYERS NUMMER="9" LEVEL="1" NAME="Conclusion" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
+        <LAYERS NUMMER="6" LEVEL="2" NAME="Results" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ffff00"/>
+        <LAYERS NUMMER="7" LEVEL="3" NAME="Methods" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <LAYERS NUMMER="3" LEVEL="4" NAME="Introduction" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
+        <LAYERS NUMMER="5" LEVEL="5" NAME="Figure 2" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff00ff"/>
+        <LAYERS NUMMER="4" LEVEL="6" NAME="Figure 1" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
         <LAYERS NUMMER="1" LEVEL="7" NAME="Title" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
         <LAYERS NUMMER="2" LEVEL="8" NAME="Authors/affiliations" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
-        <LAYERS NUMMER="3" LEVEL="4" NAME="Abstract" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
-        <LAYERS NUMMER="4" LEVEL="5" NAME="World map" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
-        <LAYERS NUMMER="5" LEVEL="6" NAME="Frequency plot" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff00ff"/>
-        <LAYERS NUMMER="6" LEVEL="3" NAME="Intro" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ffff00"/>
-        <LAYERS NUMMER="7" LEVEL="2" NAME="Methods" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <LAYERS NUMMER="8" LEVEL="9" NAME="Acknowledgements" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
-        <LAYERS NUMMER="9" LEVEL="1" NAME="Conclusion" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
+        <LAYERS NUMMER="10" LEVEL="11" NAME="Table 1" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
+        <LAYERS NUMMER="11" LEVEL="10" NAME="Table 2" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="0" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="-16408863" PDLanguage="-16408863" markLength="-8.09508531613852e+303" markOffset="-8.09239608074852e+303" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="1" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="1" bleedMarks="1" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0016" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
             <Fonts Name="Poppins ExtraBold"/>
             <Fonts Name="Poppins Light"/>
             <Fonts Name="Poppins Regular"/>
+            <Subset Name="Poppins Bold"/>
+            <Subset Name="Poppins Medium"/>
             <Subset Name="Poppins SemiBold"/>
             <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
             <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
@@ -95,226 +101,773 @@
         </Sections>
         <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="4320" PAGEHEIGHT="2880" BORDERLEFT="18" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="4320" PAGEHEIGHT="2880" BORDERLEFT="18" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGEOBJECT XPOS="91.0007999999998" YPOS="11.0016" OwnPage="0" ItemID="111031264" PTYPE="6" WIDTH="4338" HEIGHT="2898" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Light gray" PLINEART="1" path="M0 0 L4338 0 L4338 2898 L0 2898 L0 0 Z" copath="M0 0 L4338 0 L4338 2898 L0 2898 L0 0 Z" gXpos="91.0007999999998" gYpos="11.0016" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="316.0008" YPOS="128.0016" OwnPage="0" ItemID="115679568" PTYPE="4" WIDTH="3600" HEIGHT="96.575594752775" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L3600 0 L3600 96.5756 L0 96.5756 L0 0 Z" copath="M0 0 L3600 0 L3600 96.5756 L0 96.5756 L0 0 Z" gXpos="316.0008" gYpos="128.0016" gWidth="0" gHeight="0" ALIGN="1" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="91.0007999999998" YPOS="11.0016" OwnPage="0" ItemID="100192416" PTYPE="6" WIDTH="4338" HEIGHT="2898" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Light blue" PLINEART="1" path="M0 0 L4338 0 L4338 2898 L0 2898 L0 0 Z" copath="M0 0 L4338 0 L4338 2898 L0 2898 L0 0 Z" gXpos="91.0007999999998" gYpos="11.0016" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="2178.6044" OwnPage="0" ItemID="113729456" PTYPE="4" WIDTH="1152" HEIGHT="67.5178074672048" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1152 0 L1152 67.5178 L0 67.5178 L0 0 Z" copath="M0 0 L1152 0 L1152 67.5178 L0 67.5178 L0 0 Z" gXpos="0" gYpos="-167.3996" gWidth="1152" gHeight="167.9984" LAYER="9" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle ALIGN="1" FONT="Poppins Regular" FONTSIZE="80" FCOLOR="Dark gray"/>
-                <ITEXT FONT="Poppins Light" FONTSIZE="80" FCOLOR="Dark gray" CH="Sociodemographic correlates of physical activity grades in the"/>
-                <ITEXT FONT="Poppins Regular" FONTSIZE="80" FCOLOR="Dark gray" CH=" "/>
-                <ITEXT FONT="Poppins ExtraBold" FONTSIZE="80" FCOLOR="Dark gray" CH="Global Matrix 3.0"/>
+                <DefaultStyle FONT="Poppins Medium" FONTSIZE="60" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Medium" FONTSIZE="60" FCOLOR="Dark gray" CH="Conclusion"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="2264.1188" OwnPage="0" ItemID="113744256" PTYPE="4" WIDTH="1152" HEIGHT="198.4816" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1152 0 L1152 198.482 L0 198.482 L0 0 Z" copath="M0 0 L1152 0 L1152 198.482 L0 198.482 L0 0 Z" gXpos="0" gYpos="-81.8851999999997" gWidth="1152" gHeight="167.9984" LAYER="9" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Light" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Light" FONTSIZE="30" FCOLOR="Dark gray" CH="The correlates identified in these models have small effect sizes in relation to the number of A, B or C physical activity grades and the number of incomplete grades. However, these correlates may be helpful when developing strategies to improve physical activity grades within specific countries. Analyses of raw data from international datasets are needed. "/>
+                <trail LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="208.0008" YPOS="2422.0064" OwnPage="0" ItemID="113747216" PTYPE="4" WIDTH="1152" HEIGHT="67.5178074672048" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1152 0 L1152 67.5178 L0 67.5178 L0 0 Z" copath="M0 0 L1152 0 L1152 67.5178 L0 67.5178 L0 0 Z" gXpos="0" gYpos="872.0048" gWidth="1152" gHeight="326.4968" LAYER="6" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Poppins Medium" FONTSIZE="60" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Medium" FONTSIZE="60" FCOLOR="Dark gray" CH="Results"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="208.0008" YPOS="2507.5208" OwnPage="0" ItemID="113741296" PTYPE="4" WIDTH="1152" HEIGHT="284.4808" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1152 0 L1152 284.481 L0 284.481 L0 0 Z" copath="M0 0 L1152 0 L1152 284.481 L0 284.481 L0 0 Z" gXpos="0" gYpos="957.5192" gWidth="1152" gHeight="326.4968" LAYER="6" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Light" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Light" FONTSIZE="30" FCOLOR="Dark gray" CH="In model 1 (Cox &amp; Snell’s R"/>
+                <ITEXT FONT="Poppins Light" FONTSIZE="30" FEATURES="inherit superscript" FCOLOR="Dark gray" CH="2"/>
+                <ITEXT FONT="Poppins Light" FONTSIZE="30" FCOLOR="Dark gray" CH=" = 0.37; table 1), four correlates were identified: GNI per capita (IRR = 0.99, CI = 0.99-1.00, p &lt; 0.01), GII (IRR = 0.99, CI = 0.97-1.00, p = 0.10), Gini (IRR = 0.98, CI = 0.97-1.00, p = 0.03) and public health expenditures (IRR = 1.18, CI = 1.07-1.31, p &lt; 0.01). In model 2 (Cox &amp; Snell’s R"/>
+                <ITEXT FONT="Poppins Light" FONTSIZE="30" FEATURES="inherit superscript" FCOLOR="Dark gray" CH="2"/>
+                <ITEXT FONT="Poppins Light" FONTSIZE="30" FCOLOR="Dark gray" CH=" = 0.36; table 2), four correlates were also identified: GII (IRR = 1.03, CI = 1.00-1.07, p = 0.08), Gini (IRR = 1.03, CI = 1.00-1.06, p = 0.09), life expectancy (IRR = 1.05, CI = 1.00-1.11, p = 0.08) and population density (IRR = 1.00, CI = 1.00-1.00, p = 0.01)."/>
+                <trail LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="208.0008" YPOS="1208.13232" OwnPage="0" ItemID="113732416" PTYPE="4" WIDTH="1152" HEIGHT="67.5178074672048" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1152 0 L1152 67.5178 L0 67.5178 L0 0 Z" copath="M0 0 L1152 0 L1152 67.5178 L0 67.5178 L0 0 Z" gXpos="0" gYpos="-776.36768" gWidth="1152" gHeight="808.9984" LAYER="7" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Poppins Medium" FONTSIZE="60" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Medium" FONTSIZE="60" FCOLOR="Dark gray" CH="Methods"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="208.0008" YPOS="1293.64672" OwnPage="0" ItemID="113735376" PTYPE="4" WIDTH="1152" HEIGHT="1036.2304" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1152 0 L1152 1036.23 L0 1036.23 L0 0 Z" copath="M0 0 L1152 0 L1152 1036.23 L0 1036.23 L0 0 Z" gXpos="0" gYpos="-690.85328" gWidth="1152" gHeight="808.9984" LAYER="7" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Light" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FCOLOR="Dark gray" CH="The Global Matrix of physical activity report card grades was launched in 2014 to better understand the global variation in child and youth physical activity. Fifteen countries participated in the Global Matrix 1.0 (Toronto, Canada; 2014); 38 countries in the Global Matrix 2.0 (Bangkok, Thailand; 2016) and 49 countries in the recently held Global Matrix 3.0 (Adelaide, Australia; 2018). "/>
+                <ITEXT FONT="Poppins Light" FONTSIZE="30" FCOLOR="Dark gray" CH="Participating countries (figure 1) followed a standardized process to assign letter grades (A, B, C, D, F or Incomplete) to 10 indicators of physical activity, based on the proportion of 5- to 17-year-olds meeting a given benchmark(s). Indicators included: overall physical activity, organized sport and physical activity, active play, active transportation, sedentary behavior, physical fitness, family and peers, school, community and environment, and government. The number of A, B or C grades (i.e. good grades; 229/490) and the number of Incomplete grades (121/490) were tallied for each country. (figure 2). Country-level sociodemographic data were accessed from several online databases and included: distance to the equator, gross national income per capita (GNI), the Gender Inequality Index (GII), the Gini coefficient, life expectancy at birth, public health expenditures (%GNI) and population density. Two generalized linear models were fit with the number of A, B or C grades (model 1) and the number of Incomplete grades (model 2) regressed on multiple sociodemographic predictors. Incidence rate ratios (IRR) were computed from model estimates. An alpha level of 0.20 was set for identifying correlates. Two generalized linear models were fit with the number of A, B or C grades (model 1) and the number of Incomplete grades (model 2) regressed on multiple sociodemographic predictors. Incident rate ratios (IRR) were computed from model estimates. An alpha level of 0.20 was set for identifying correlates."/>
+                <para LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="208.0008" YPOS="556.6608" OwnPage="0" ItemID="100204096" PTYPE="4" WIDTH="1152" HEIGHT="67.5178074672048" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1152 0 L1152 67.5178 L0 67.5178 L0 0 Z" copath="M0 0 L1152 0 L1152 67.5178 L0 67.5178 L0 0 Z" gXpos="208.0008" gYpos="556.6608" gWidth="0" gHeight="0" LAYER="3" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Poppins Medium" FONTSIZE="60" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Medium" FONTSIZE="60" FCOLOR="Dark gray" CH="Introduction"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="208.0008" YPOS="642.1752" OwnPage="0" ItemID="100208992" PTYPE="4" WIDTH="1152" HEIGHT="473.8248" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1152 0 L1152 473.825 L0 473.825 L0 0 Z" copath="M0 0 L1152 0 L1152 473.825 L0 473.825 L0 0 Z" gXpos="208.0008" gYpos="642.1752" gWidth="0" gHeight="0" LAYER="3" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Light" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FCOLOR="Dark gray" CH="Physical inactivity, which is often defined as engaging in insufficient levels of physical activity and not meeting the current physical activity recommendations, has been identified as the fourth leading risk factor of premature mortality in adulthood. Some estimates suggest that 80% of youth (11- to 17-year-olds) worldwide do not accumulate the recommended 60 minutes of daily moderate- to vigorous-intensity physical activity."/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="Poppins Light" FONTSIZE="30" FCOLOR="Dark gray" CH="These high levels of global physical inactivity represent a complex problem for which a single, generic solution may be misguided. Multiple factors from a diverse sample of countries may help inform the development of effective physical activity strategies. Therefore, we examined sociodemographic correlates of physical activity grades from 49 countries across six continents that participated in the Global Matrix 3.0. "/>
+                <trail LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1697.5" YPOS="2490.90502920853" OwnPage="0" ItemID="111465184" PTYPE="4" WIDTH="157.5" HEIGHT="88" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Dark blue" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L157.5 0 L157.5 88 L0 88 L0 0 Z" copath="M0 0 L157.5 0 L157.5 88 L0 88 L0 0 Z" gXpos="0" gYpos="556" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White" CH="18"/>
+                <para ALIGN="1" LINESP="40"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White" CH="(3.7%)"/>
+                <trail ALIGN="1" LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1891.0016" YPOS="2168.90502920853" OwnPage="0" ItemID="113643424" PTYPE="4" WIDTH="157.5" HEIGHT="410" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Dark blue" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L157.5 0 L157.5 410 L0 410 L0 0 Z" copath="M0 0 L157.5 0 L157.5 410 L0 410 L0 0 Z" gXpos="193.5016" gYpos="234" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White" CH="8"/>
+                <ITEXT FONTSIZE="30" CH="2"/>
+                <para ALIGN="1" LINESP="40"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White" CH="(16.7%)"/>
+                <trail ALIGN="1" LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="2084.5016" YPOS="1934.90502920853" OwnPage="0" ItemID="113646272" PTYPE="4" WIDTH="157.5" HEIGHT="644" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Dark blue" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L157.5 0 L157.5 644 L0 644 L0 0 Z" copath="M0 0 L157.5 0 L157.5 644 L0 644 L0 0 Z" gXpos="387.0016" gYpos="0" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White"/>
+                <ITEXT FONTSIZE="30" CH="129"/>
+                <para ALIGN="1" LINESP="40"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White" CH="(26.3%)"/>
+                <trail ALIGN="1" LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="2278.0016" YPOS="2004.90502920853" OwnPage="0" ItemID="113650112" PTYPE="4" WIDTH="157.5" HEIGHT="574" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Dark blue" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L157.5 0 L157.5 574 L0 574 L0 0 Z" copath="M0 0 L157.5 0 L157.5 574 L0 574 L0 0 Z" gXpos="580.5016" gYpos="70" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White"/>
+                <ITEXT FONTSIZE="30" CH="115"/>
+                <para ALIGN="1" LINESP="40"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White" CH="(23.5%)"/>
+                <trail ALIGN="1" LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="2471.5016" YPOS="2454.90502920853" OwnPage="0" ItemID="111319072" PTYPE="4" WIDTH="157.5" HEIGHT="124" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Dark blue" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L157.5 0 L157.5 124 L0 124 L0 0 Z" copath="M0 0 L157.5 0 L157.5 124 L0 124 L0 0 Z" gXpos="774.0016" gYpos="520" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White"/>
+                <ITEXT FONTSIZE="30" CH="25"/>
+                <para ALIGN="1" LINESP="40"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White" CH="(5.1%)"/>
+                <trail ALIGN="1" LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="2665.0016" YPOS="1974.90502920853" OwnPage="0" ItemID="111321920" PTYPE="4" WIDTH="157.5" HEIGHT="604" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Dark blue" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L157.5 0 L157.5 604 L0 604 L0 0 Z" copath="M0 0 L157.5 0 L157.5 604 L0 604 L0 0 Z" gXpos="967.5016" gYpos="40" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White"/>
+                <ITEXT FONTSIZE="30" CH="121"/>
+                <para ALIGN="1" LINESP="40"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White" CH="(24.7%)"/>
+                <trail ALIGN="1" LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1743.748" YPOS="2614.90262920853" OwnPage="0" ItemID="111325760" PTYPE="4" WIDTH="65" HEIGHT="45" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L65 0 L65 45 L0 45 L0 0 Z" copath="M0 0 L65 0 L65 45 L0 45 L0 0 Z" gXpos="46.248" gYpos="679.997600000001" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark blue"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark blue" CH="A"/>
+                <trail ALIGN="1" LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1937.2552" YPOS="2614.90262920853" OwnPage="0" ItemID="111328608" PTYPE="4" WIDTH="65" HEIGHT="45" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L65 0 L65 45 L0 45 L0 0 Z" copath="M0 0 L65 0 L65 45 L0 45 L0 0 Z" gXpos="239.7552" gYpos="679.9976" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark blue"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark blue" CH="B"/>
+                <trail ALIGN="1" LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="2130.748" YPOS="2614.90262920853" OwnPage="0" ItemID="111331456" PTYPE="4" WIDTH="65" HEIGHT="45" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L65 0 L65 45 L0 45 L0 0 Z" copath="M0 0 L65 0 L65 45 L0 45 L0 0 Z" gXpos="433.248" gYpos="679.9976" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark blue"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark blue" CH="C"/>
+                <trail ALIGN="1" LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="2324.2552" YPOS="2614.90262920853" OwnPage="0" ItemID="113610768" PTYPE="4" WIDTH="65" HEIGHT="45" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L65 0 L65 45 L0 45 L0 0 Z" copath="M0 0 L65 0 L65 45 L0 45 L0 0 Z" gXpos="626.755200000001" gYpos="679.9976" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark blue"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark blue" CH="D"/>
+                <trail ALIGN="1" LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="2517.748" YPOS="2614.90262920853" OwnPage="0" ItemID="113594416" PTYPE="4" WIDTH="65" HEIGHT="45" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L65 0 L65 45 L0 45 L0 0 Z" copath="M0 0 L65 0 L65 45 L0 45 L0 0 Z" gXpos="820.248" gYpos="679.9976" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark blue"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark blue" CH="F"/>
+                <trail ALIGN="1" LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="2711.2552" YPOS="2614.90262920853" OwnPage="0" ItemID="113720576" PTYPE="4" WIDTH="65" HEIGHT="45" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L65 0 L65 45 L0 45 L0 0 Z" copath="M0 0 L65 0 L65 45 L0 45 L0 0 Z" gXpos="1013.7552" gYpos="679.9976" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark blue"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark blue" CH="INC"/>
+                <trail ALIGN="1" LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1540.0008" YPOS="2695.90262920853" OwnPage="0" ItemID="113738336" PTYPE="4" WIDTH="1440" HEIGHT="96.0989707914691" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1440 0 L1440 96.099 L0 96.099 L0 0 Z" copath="M0 0 L1440 0 L1440 96.099 L0 96.099 L0 0 Z" gXpos="0" gYpos="760.997600000001" gWidth="1440" gHeight="857.09657079147" ALIGN="0" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins SemiBold" FONTSIZE="30" FCOLOR="Dark gray" CH="Figure 2."/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH=" Tally of letter grades from the 49 participating countries in the Global Matrix 3.0 (INC: incomplete)."/>
+                <trail ALIGN="0" LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1540.0008" YPOS="737.1072" OwnPage="0" ItemID="113600016" PTYPE="2" WIDTH="1440" HEIGHT="935.886970172685" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.227992400253325" LOCALSCY="0.227992400253325" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="World map - blue.tiff" PRFILE="Embedded GIMP built-in sRGB" EPROF="Embedded GIMP built-in sRGB" IRENDER="0" path="M0 0 L1440 0 L1440 935.887 L0 935.887 L0 0 Z" copath="M0 0 L1440 0 L1440 935.887 L0 935.887 L0 0 Z" gXpos="0" gYpos="0" gWidth="1440" gHeight="971.162913978461" LAYER="4" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="1540.0008" YPOS="1666.27011397846" OwnPage="0" ItemID="113726496" PTYPE="4" WIDTH="1306" HEIGHT="42" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1306 0 L1306 42 L0 42 L0 0 Z" copath="M0 0 L1306 0 L1306 42 L0 42 L0 0 Z" gXpos="0" gYpos="929.162913978461" gWidth="1440" gHeight="971.162913978461" LAYER="4" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins SemiBold" FONTSIZE="30" FCOLOR="Dark gray" CH="Figure 1."/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH=" World map of participating countries (shaded) in the Global Matrix 3.0."/>
+                <trail LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="316.0008" YPOS="128.0016" OwnPage="0" ItemID="100213568" PTYPE="4" WIDTH="3600" HEIGHT="96.575594752775" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L3600 0 L3600 96.5756 L0 96.5756 L0 0 Z" copath="M0 0 L3600 0 L3600 96.5756 L0 96.5756 L0 0 Z" gXpos="316.0008" gYpos="128.0016" gWidth="0" gHeight="0" ALIGN="1" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="Poppins Regular" FONTSIZE="80" FCOLOR="Dark blue"/>
+                <ITEXT FONT="Poppins Light" FONTSIZE="80" FCOLOR="Dark blue" CH="Sociodemographic correlates of physical activity grades in the"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="80" FCOLOR="Dark blue" CH=" "/>
+                <ITEXT FONT="Poppins ExtraBold" FONTSIZE="80" FCOLOR="Dark blue" CH="Global Matrix 3.0"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="693.107762663976" YPOS="296.5752" OwnPage="0" ItemID="111722944" PTYPE="4" WIDTH="2845.78607467205" HEIGHT="116.082744702321" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L2845.79 0 L2845.79 116.083 L0 116.083 L0 0 Z" copath="M0 0 L2845.79 0 L2845.79 116.083 L0 116.083 L0 0 Z" gXpos="693.107762663976" gYpos="296.5752" gWidth="0" gHeight="0" LAYER="2" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="693.107762663976" YPOS="296.5752" OwnPage="0" ItemID="100197216" PTYPE="4" WIDTH="2845.78607467205" HEIGHT="116.082744702321" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L2845.79 0 L2845.79 116.083 L0 116.083 L0 0 Z" copath="M0 0 L2845.79 0 L2845.79 116.083 L0 116.083 L0 0 Z" gXpos="693.107762663976" gYpos="296.5752" gWidth="0" gHeight="0" LAYER="2" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="60" FONT="Poppins Light" FONTSIZE="50" FCOLOR="Dark gray"/>
                 <ITEXT FONT="Poppins Light" FONTSIZE="50" FCOLOR="Dark gray" CH="Joel D. Barnes, MSc, Salomé Aubert, MSc, Evan Turner, HBSc, Mark S. Tremblay, PhD"/>
                 <para ALIGN="1" LINESP="60"/>
-                <ITEXT CH="Healthy Active Living and Obesity Research Group, CHEO Research Institute, Ottawa ON, K1H 8L1 Canada"/>
+                <ITEXT FCOLOR="Dark gray" CH="Healthy Active Living and Obesity Research Group, CHEO Research Institute, Ottawa ON, K1H 8L1 Canada"/>
                 <para ALIGN="1" LINESP="60"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="208.0008" YPOS="556.6608" OwnPage="0" ItemID="5783008" PTYPE="4" WIDTH="1152" HEIGHT="67.5178074672048" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1152 0 L1152 67.5178 L0 67.5178 L0 0 Z" copath="M0 0 L1152 0 L1152 67.5178 L0 67.5178 L0 0 Z" gXpos="208.0008" gYpos="556.6608" gWidth="0" gHeight="0" LAYER="3" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="3205.2916" YPOS="2622.0016" OwnPage="0" ItemID="113632720" PTYPE="2" WIDTH="290.96" HEIGHT="170" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.08" LOCALSCY="0.08" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="ahkga-logo-light-blue-background.tiff" PRFILE="Embedded GIMP built-in sRGB" EPROF="Embedded GIMP built-in sRGB" IRENDER="0" path="M0 0 L290.96 0 L290.96 170 L0 170 L0 0 Z" copath="M0 0 L290.96 0 L290.96 170 L0 170 L0 0 Z" gXpos="0" gYpos="0" gWidth="1061.4184" gHeight="170.000000000004" LAYER="8" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="3604.2516" YPOS="2622.0016" OwnPage="0" ItemID="113635472" PTYPE="2" WIDTH="662.4584" HEIGHT="170" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.169687090163934" LOCALSCY="0.169687090163934" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="New HALO logo-light-blue-background.tiff" PRFILE="Embedded GIMP built-in sRGB" EPROF="Embedded GIMP built-in sRGB" IRENDER="0" path="M0 0 L662.458 0 L662.458 170 L0 170 L0 0 Z" copath="M0 0 L662.458 0 L662.458 170 L0 170 L0 0 Z" gXpos="398.96" gYpos="3.63797880709171e-12" gWidth="1061.4184" gHeight="170.000000000004" LAYER="8" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="556.6608" OwnPage="0" ItemID="146918272" PTYPE="4" WIDTH="1152" HEIGHT="76.3391999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1152 0 L1152 76.3392 L0 76.3392 L0 0 Z" copath="M0 0 L1152 0 L1152 76.3392 L0 76.3392 L0 0 Z" gXpos="0" gYpos="0" gWidth="1152" gHeight="591.1416" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle FONT="Poppins Regular" FONTSIZE="60" FCOLOR="Dark gray"/>
-                <ITEXT FONT="Poppins Regular" FONTSIZE="60" FCOLOR="Dark gray" CH="Abstract"/>
-                <trail/>
+                <DefaultStyle LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins SemiBold" FONTSIZE="30" FCOLOR="Dark gray" CH="Table 1."/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH=" Number of A, B or C grades regressed on sociodemographic predictors using a Poisson model (model 1)."/>
+                <trail LINESP="40"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="208.0008" YPOS="642.1752" OwnPage="0" ItemID="5718704" PTYPE="4" WIDTH="1152" HEIGHT="799.8264" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1152 0 L1152 799.826 L0 799.826 L0 0 Z" copath="M0 0 L1152 0 L1152 799.826 L0 799.826 L0 0 Z" gXpos="208.0008" gYpos="642.1752" gWidth="0" gHeight="0" LAYER="3" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="3160.0008" YPOS="672.6024" OwnPage="0" ItemID="146924192" PTYPE="4" WIDTH="540" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Dark blue" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" copath="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="115.9416" gWidth="1152" gHeight="591.1416" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle LINESP="35" FONT="Poppins Light" FONTSIZE="25" FCOLOR="Dark gray"/>
-                <ITEXT FONT="Poppins Light" FONTSIZE="25" FCOLOR="Dark gray" CH="High levels of child and youth physical inactivity around the world represent a complex problem for which a single, generic solution may be misguided. Multiple factors from a diverse sample of countries may help inform the development of effective physical activity strategies. Therefore, we examined sociodemographic correlates of physical activity grades from 49 countries across six continents that participated in the Global Matrix 3.0. Participating countries followed a standardized process to assign letter grades (A, B, C, D, F or Incomplete) to 10 indicators of physical activity, based on the proportion of 5- to 17-year-olds meeting a given benchmark(s). The number of A, B or C grades (i.e. good grades; 229/490) and the number of Incomplete grades (121/490) were tallied for each country. Country-level sociodemographic data were accessed from several online databases and included: distance to the equator, gross national income per capita (GNI), the Gender Inequality Index (GII), the Gini coefficient, life expectancy at birth, public health expenditures (%GNI) and population density. Two generalized linear models were fit with the number of A, B or C grades (model 1) and the number of Incomplete grades (model 2) regressed on multiple sociodemographic predictors. Incident rate ratios (IRR) were computed from model estimates. An alpha level of 0.20 was set for identifying correlates. In model 1 (Cox &amp; Snell’s R"/>
-                <ITEXT FONT="Poppins Light" FONTSIZE="25" FEATURES="inherit superscript" FCOLOR="Dark gray" CH="2"/>
-                <ITEXT FONT="Poppins Light" FONTSIZE="25" FCOLOR="Dark gray" CH=" = 0.37), four correlates were identified: GNI per capita (IRR = 0.99, CI = 0.99-1.00, p &lt; 0.01), GII (IRR = 0.99, CI = 0.97-1.00, p = 0.10), Gini (IRR = 0.98, CI = 0.97-1.00, p = 0.03) and public health expenditures (IRR = 1.18, CI = 1.07-1.31, p &lt; 0.01). In model 2 (Cox &amp; Snell’s R"/>
-                <ITEXT FONT="Poppins Light" FONTSIZE="25" FEATURES="inherit superscript" FCOLOR="Dark gray" CH="2"/>
-                <ITEXT FONT="Poppins Light" FONTSIZE="25" FCOLOR="Dark gray" CH=" = 0.36), four correlates were also identified: GII (IRR = 1.03, CI = 1.00-1.07, p = 0.08), Gini (IRR = 1.03, CI = 1.00-1.06, p = 0.09), life expectancy (IRR = 1.05, CI = 0.99-1.11, p = 0.08) and population density (IRR = 1.00, CI = 1.00-1.00, p = 0.01). These correlates may be helpful when developing strategies to improve physical activity grades within specific countries."/>
-                <trail LINESP="35"/>
+                <DefaultStyle LINESP="40" FONT="Poppins Medium" FONTSIZE="30" FCOLOR="White"/>
+                <ITEXT FONT="Poppins Medium" FONTSIZE="30" FCOLOR="White" CH="Predictor"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="208.0008" YPOS="628.108980827447" OwnPage="0" ItemID="116417280" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="3.6" PCOLOR="Dark gray" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="208.0008" gYpos="628.108980827447" gWidth="0" gHeight="0" LAYER="3"/>
-        <PAGEOBJECT XPOS="1540.0008" YPOS="1982.90342920853" OwnPage="0" ItemID="141775440" PTYPE="12" WIDTH="1440" HEIGHT="809.09817079147" FRTYPE="0" CLIPEDIT="0" ANNAME="Group15" groupWidth="1440" groupHeight="809.09817079147" groupClips="1" path="M0 0 L1440 0 L1440 809.098 L0 809.098 L0 0 Z" copath="M0 0 L1440 0 L1440 809.098 L0 809.098 L0 0 Z" gXpos="1540.0008" gYpos="1982.90342920853" gWidth="0" gHeight="0" LAYER="5">
-            <PAGEOBJECT XPOS="1697.5" YPOS="1982.90342920853" OwnPage="0" ItemID="41609040" PTYPE="12" WIDTH="1125.0016" HEIGHT="724.997600000001" FRTYPE="0" CLIPEDIT="0" ANNAME="Group5" groupWidth="1125.0016" groupHeight="724.997600000001" groupClips="1" path="M0 0 L1125 0 L1125 724.998 L0 724.998 L0 0 Z" copath="M0 0 L1125 0 L1125 724.998 L0 724.998 L0 0 Z" gXpos="157.4992" gYpos="0" gWidth="1440" gHeight="809.09817079147" LAYER="5">
-                <PAGEOBJECT XPOS="1697.5" YPOS="2538.90342920853" OwnPage="0" ItemID="113650896" PTYPE="4" WIDTH="157.5" HEIGHT="88" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Dark gray" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L157.5 0 L157.5 88 L0 88 L0 0 Z" copath="M0 0 L157.5 0 L157.5 88 L0 88 L0 0 Z" gXpos="0" gYpos="556" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
-                    <StoryText>
-                        <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White"/>
-                        <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White" CH="18"/>
-                        <para ALIGN="1" LINESP="40"/>
-                        <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White" CH="(3.7%)"/>
-                        <trail ALIGN="1" LINESP="40"/>
-                    </StoryText>
-                </PAGEOBJECT>
-                <PAGEOBJECT XPOS="1891.0016" YPOS="2216.90342920853" OwnPage="0" ItemID="113668656" PTYPE="4" WIDTH="157.5" HEIGHT="410" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Dark gray" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L157.5 0 L157.5 410 L0 410 L0 0 Z" copath="M0 0 L157.5 0 L157.5 410 L0 410 L0 0 Z" gXpos="193.5016" gYpos="234" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
-                    <StoryText>
-                        <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White"/>
-                        <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White" CH="8"/>
-                        <ITEXT FONTSIZE="30" CH="2"/>
-                        <para ALIGN="1" LINESP="40"/>
-                        <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White" CH="(16.7%)"/>
-                        <trail ALIGN="1" LINESP="40"/>
-                    </StoryText>
-                </PAGEOBJECT>
-                <PAGEOBJECT XPOS="2084.5016" YPOS="1982.90342920853" OwnPage="0" ItemID="113656816" PTYPE="4" WIDTH="157.5" HEIGHT="644" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Dark gray" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L157.5 0 L157.5 644 L0 644 L0 0 Z" copath="M0 0 L157.5 0 L157.5 644 L0 644 L0 0 Z" gXpos="387.0016" gYpos="0" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
-                    <StoryText>
-                        <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White"/>
-                        <ITEXT FONTSIZE="30" CH="129"/>
-                        <para ALIGN="1" LINESP="40"/>
-                        <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White" CH="(26.3%)"/>
-                        <trail ALIGN="1" LINESP="40"/>
-                    </StoryText>
-                </PAGEOBJECT>
-                <PAGEOBJECT XPOS="2278.0016" YPOS="2052.90342920853" OwnPage="0" ItemID="113659776" PTYPE="4" WIDTH="157.5" HEIGHT="574" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Dark gray" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L157.5 0 L157.5 574 L0 574 L0 0 Z" copath="M0 0 L157.5 0 L157.5 574 L0 574 L0 0 Z" gXpos="580.5016" gYpos="70" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
-                    <StoryText>
-                        <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White"/>
-                        <ITEXT FONTSIZE="30" CH="115"/>
-                        <para ALIGN="1" LINESP="40"/>
-                        <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White" CH="(23.5%)"/>
-                        <trail ALIGN="1" LINESP="40"/>
-                    </StoryText>
-                </PAGEOBJECT>
-                <PAGEOBJECT XPOS="2471.5016" YPOS="2502.90342920853" OwnPage="0" ItemID="147096544" PTYPE="4" WIDTH="157.5" HEIGHT="124" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Dark gray" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L157.5 0 L157.5 124 L0 124 L0 0 Z" copath="M0 0 L157.5 0 L157.5 124 L0 124 L0 0 Z" gXpos="774.0016" gYpos="520" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
-                    <StoryText>
-                        <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White"/>
-                        <ITEXT FONTSIZE="30" CH="25"/>
-                        <para ALIGN="1" LINESP="40"/>
-                        <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White" CH="(5.1%)"/>
-                        <trail ALIGN="1" LINESP="40"/>
-                    </StoryText>
-                </PAGEOBJECT>
-                <PAGEOBJECT XPOS="2665.0016" YPOS="2022.90342920853" OwnPage="0" ItemID="147126144" PTYPE="4" WIDTH="157.5" HEIGHT="604" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Dark gray" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L157.5 0 L157.5 604 L0 604 L0 0 Z" copath="M0 0 L157.5 0 L157.5 604 L0 604 L0 0 Z" gXpos="967.5016" gYpos="40" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
-                    <StoryText>
-                        <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White"/>
-                        <ITEXT FONTSIZE="30" CH="121"/>
-                        <para ALIGN="1" LINESP="40"/>
-                        <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="White" CH="(24.7%)"/>
-                        <trail ALIGN="1" LINESP="40"/>
-                    </StoryText>
-                </PAGEOBJECT>
-                <PAGEOBJECT XPOS="1743.748" YPOS="2662.90102920853" OwnPage="0" ItemID="147111344" PTYPE="4" WIDTH="65" HEIGHT="45" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L65 0 L65 45 L0 45 L0 0 Z" copath="M0 0 L65 0 L65 45 L0 45 L0 0 Z" gXpos="46.248" gYpos="679.997600000001" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
-                    <StoryText>
-                        <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
-                        <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="A"/>
-                        <trail ALIGN="1" LINESP="40"/>
-                    </StoryText>
-                </PAGEOBJECT>
-                <PAGEOBJECT XPOS="1937.2552" YPOS="2662.90102920853" OwnPage="0" ItemID="147117264" PTYPE="4" WIDTH="65" HEIGHT="45" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L65 0 L65 45 L0 45 L0 0 Z" copath="M0 0 L65 0 L65 45 L0 45 L0 0 Z" gXpos="239.7552" gYpos="679.9976" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
-                    <StoryText>
-                        <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
-                        <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="B"/>
-                        <trail ALIGN="1" LINESP="40"/>
-                    </StoryText>
-                </PAGEOBJECT>
-                <PAGEOBJECT XPOS="2130.748" YPOS="2662.90102920853" OwnPage="0" ItemID="147099504" PTYPE="4" WIDTH="65" HEIGHT="45" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L65 0 L65 45 L0 45 L0 0 Z" copath="M0 0 L65 0 L65 45 L0 45 L0 0 Z" gXpos="433.248" gYpos="679.9976" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
-                    <StoryText>
-                        <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
-                        <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="C"/>
-                        <trail ALIGN="1" LINESP="40"/>
-                    </StoryText>
-                </PAGEOBJECT>
-                <PAGEOBJECT XPOS="2324.2552" YPOS="2662.90102920853" OwnPage="0" ItemID="147114304" PTYPE="4" WIDTH="65" HEIGHT="45" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L65 0 L65 45 L0 45 L0 0 Z" copath="M0 0 L65 0 L65 45 L0 45 L0 0 Z" gXpos="626.755200000001" gYpos="679.9976" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
-                    <StoryText>
-                        <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
-                        <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="D"/>
-                        <trail ALIGN="1" LINESP="40"/>
-                    </StoryText>
-                </PAGEOBJECT>
-                <PAGEOBJECT XPOS="2517.748" YPOS="2662.90102920853" OwnPage="0" ItemID="147120224" PTYPE="4" WIDTH="65" HEIGHT="45" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L65 0 L65 45 L0 45 L0 0 Z" copath="M0 0 L65 0 L65 45 L0 45 L0 0 Z" gXpos="820.248" gYpos="679.9976" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
-                    <StoryText>
-                        <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
-                        <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="F"/>
-                        <trail ALIGN="1" LINESP="40"/>
-                    </StoryText>
-                </PAGEOBJECT>
-                <PAGEOBJECT XPOS="2711.2552" YPOS="2662.90102920853" OwnPage="0" ItemID="147129104" PTYPE="4" WIDTH="65" HEIGHT="45" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L65 0 L65 45 L0 45 L0 0 Z" copath="M0 0 L65 0 L65 45 L0 45 L0 0 Z" gXpos="1013.7552" gYpos="679.9976" gWidth="1125.0016" gHeight="724.997600000001" ALIGN="1" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
-                    <StoryText>
-                        <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
-                        <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="INC"/>
-                        <trail ALIGN="1" LINESP="40"/>
-                    </StoryText>
-                </PAGEOBJECT>
-            </PAGEOBJECT>
-            <PAGEOBJECT XPOS="1540.0008" YPOS="2743.90102920853" OwnPage="0" ItemID="147132064" PTYPE="4" WIDTH="1440" HEIGHT="48.1005707914691" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1440 0 L1440 48.1006 L0 48.1006 L0 0 Z" copath="M0 0 L1440 0 L1440 48.1006 L0 48.1006 L0 0 Z" gXpos="0" gYpos="760.997600000001" gWidth="1440" gHeight="809.09817079147" ALIGN="0" LAYER="5" NEXTITEM="-1" BACKITEM="-1">
-                <StoryText>
-                    <DefaultStyle ALIGN="0" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
-                    <ITEXT FONT="Poppins SemiBold" FONTSIZE="30" FCOLOR="Dark gray" CH="Figure 2."/>
-                    <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH=" Tally of letter grades from the 49 participating in the Global Matrix 3.0 (INC: incomplete)."/>
-                    <trail ALIGN="0" LINESP="40"/>
-                </StoryText>
-            </PAGEOBJECT>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="1540.0008" YPOS="737.1072" OwnPage="0" ItemID="141735792" PTYPE="12" WIDTH="1440" HEIGHT="971.162913978461" FRTYPE="0" CLIPEDIT="0" ANNAME="Group7" groupWidth="1440" groupHeight="971.162913978461" groupClips="1" path="M0 0 L1440 0 L1440 971.163 L0 971.163 L0 0 Z" copath="M0 0 L1440 0 L1440 971.163 L0 971.163 L0 0 Z" gXpos="0" gYpos="72.93505698923" gWidth="1440" gHeight="1879.65891397846" LAYER="4">
-            <PAGEOBJECT XPOS="1540.0008" YPOS="737.1072" OwnPage="0" ItemID="141764112" PTYPE="2" WIDTH="1440" HEIGHT="935.886970172685" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.188383045525903" LOCALSCY="0.188383045525903" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="World map.tiff" PRFILE="Embedded GIMP built-in sRGB" EPROF="Embedded GIMP built-in sRGB" IRENDER="0" path="M0 0 L1440 0 L1440 935.887 L0 935.887 L0 0 Z" copath="M0 0 L1440 0 L1440 935.887 L0 935.887 L0 0 Z" gXpos="0" gYpos="0" gWidth="1440" gHeight="971.162913978461" LAYER="4" NEXTITEM="-1" BACKITEM="-1"/>
-            <PAGEOBJECT XPOS="1540.0008" YPOS="1666.27011397846" OwnPage="0" ItemID="147135024" PTYPE="4" WIDTH="1306" HEIGHT="42" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1306 0 L1306 42 L0 42 L0 0 Z" copath="M0 0 L1306 0 L1306 42 L0 42 L0 0 Z" gXpos="0" gYpos="929.162913978461" gWidth="1440" gHeight="971.162913978461" LAYER="4" NEXTITEM="-1" BACKITEM="-1">
-                <StoryText>
-                    <DefaultStyle LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
-                    <ITEXT FONT="Poppins SemiBold" FONTSIZE="30" FCOLOR="Dark gray" CH="Figure 1."/>
-                    <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH=" World map of participating countries (shaded) in the Global Matrix 3.0."/>
-                    <trail LINESP="40"/>
-                </StoryText>
-            </PAGEOBJECT>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="208.0008" YPOS="1550.0016" OwnPage="0" ItemID="141769776" PTYPE="12" WIDTH="1152" HEIGHT="326.4968" FRTYPE="0" CLIPEDIT="0" ANNAME="Group12" groupWidth="1152" groupHeight="326.4968" groupClips="1" path="M0 0 L1152 0 L1152 326.497 L0 326.497 L0 0 Z" copath="M0 0 L1152 0 L1152 326.497 L0 326.497 L0 0 Z" gXpos="208.0008" gYpos="1550.0016" gWidth="0" gHeight="0" LAYER="6">
-            <PAGEOBJECT XPOS="208.0008" YPOS="1550.0016" OwnPage="0" ItemID="147108384" PTYPE="4" WIDTH="1152" HEIGHT="67.5178074672048" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1152 0 L1152 67.5178 L0 67.5178 L0 0 Z" copath="M0 0 L1152 0 L1152 67.5178 L0 67.5178 L0 0 Z" gXpos="0" gYpos="0" gWidth="1152" gHeight="326.4968" LAYER="6" NEXTITEM="-1" BACKITEM="-1">
-                <StoryText>
-                    <DefaultStyle FONT="Poppins Regular" FONTSIZE="60" FCOLOR="Dark gray"/>
-                    <ITEXT FONT="Poppins Regular" FONTSIZE="60" FCOLOR="Dark gray" CH="Introduction"/>
-                    <trail/>
-                </StoryText>
-            </PAGEOBJECT>
-            <PAGEOBJECT XPOS="208.0008" YPOS="1635.516" OwnPage="0" ItemID="147146864" PTYPE="4" WIDTH="1152" HEIGHT="240.9824" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1152 0 L1152 240.982 L0 240.982 L0 0 Z" copath="M0 0 L1152 0 L1152 240.982 L0 240.982 L0 0 Z" gXpos="0" gYpos="85.5144" gWidth="1152" gHeight="326.4968" LAYER="6" NEXTITEM="-1" BACKITEM="-1">
-                <StoryText>
-                    <DefaultStyle LINESP="40" FONT="Poppins Light" FONTSIZE="30" FCOLOR="Dark gray"/>
-                    <ITEXT FONT="Poppins Light" FONTSIZE="30" FCOLOR="Dark gray" CH="High levels of child and youth physical inactivity around the world represent a complex problem for which a single, generic solution may be misguided. Multiple factors from a diverse sample of countries may help inform the development of effective physical activity strategies. Therefore, we examined sociodemographic correlates of physical activity grades from 49 countries across six continents that participated in the Global Matrix 3.0. "/>
-                    <trail LINESP="40"/>
-                </StoryText>
-            </PAGEOBJECT>
-            <PAGEOBJECT XPOS="208.0008" YPOS="1621.44978082745" OwnPage="0" ItemID="141738624" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="3.6" PCOLOR="Dark gray" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="71.4481808274468" gWidth="1152" gHeight="326.4968" LAYER="6"/>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="208.0008" YPOS="1984.5" OwnPage="0" ItemID="141778272" PTYPE="12" WIDTH="1152" HEIGHT="808.9984" FRTYPE="0" CLIPEDIT="0" ANNAME="Group18" groupWidth="1152" groupHeight="808.9984" groupClips="1" path="M0 0 L1152 0 L1152 808.998 L0 808.998 L0 0 Z" copath="M0 0 L1152 0 L1152 808.998 L0 808.998 L0 0 Z" gXpos="208.0008" gYpos="1984.5" gWidth="0" gHeight="0" LAYER="7">
-            <PAGEOBJECT XPOS="208.0008" YPOS="1984.5" OwnPage="0" ItemID="147143904" PTYPE="4" WIDTH="1152" HEIGHT="67.5178074672048" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1152 0 L1152 67.5178 L0 67.5178 L0 0 Z" copath="M0 0 L1152 0 L1152 67.5178 L0 67.5178 L0 0 Z" gXpos="0" gYpos="0" gWidth="1152" gHeight="808.9984" LAYER="7" NEXTITEM="-1" BACKITEM="-1">
-                <StoryText>
-                    <DefaultStyle FONT="Poppins Regular" FONTSIZE="60" FCOLOR="Dark gray"/>
-                    <ITEXT FONT="Poppins Regular" FONTSIZE="60" FCOLOR="Dark gray" CH="Methods"/>
-                    <trail/>
-                </StoryText>
-            </PAGEOBJECT>
-            <PAGEOBJECT XPOS="208.0008" YPOS="2070.0144" OwnPage="0" ItemID="147158704" PTYPE="4" WIDTH="1152" HEIGHT="723.484" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1152 0 L1152 723.484 L0 723.484 L0 0 Z" copath="M0 0 L1152 0 L1152 723.484 L0 723.484 L0 0 Z" gXpos="0" gYpos="85.5143999999998" gWidth="1152" gHeight="808.9984" LAYER="7" NEXTITEM="-1" BACKITEM="-1">
-                <StoryText>
-                    <DefaultStyle LINESP="40" FONT="Poppins Light" FONTSIZE="30" FCOLOR="Dark gray"/>
-                    <ITEXT FONT="Poppins Light" FONTSIZE="30" FCOLOR="Dark gray" CH="Participating countries (figure 1) followed a standardized process to assign letter grades (A, B, C, D, F or Incomplete) to 10 indicators of physical activity, based on the proportion of 5- to 17-year-olds meeting a given benchmark(s). Indicators included: overall physical activity, organized sport and physical activity, active play, active transportation, sedentary behavior, physical fitness, family and peers, school, community and environment, and government. The number of A, B or C grades (i.e. good grades; 229/490) and the number of Incomplete grades (121/490) were tallied for each country (figure 2). Country-level sociodemographic data were accessed from several online databases and included: distance to the equator, gross national income per capita (GNI), the Gender Inequality Index (GII), the Gini coefficient, life expectancy at birth, public health expenditures (%GNI) and population density. Two generalized linear models were fit with the number of A, B or C grades (model 1) and the number of Incomplete grades (model 2) regressed on multiple sociodemographic predictors. Incident rate ratios (IRR) were computed from model estimates. An alpha level of 0.20 was set for identifying correlates. All analyses and data visualizations were performed using R 3.6.1 and RStudio 1.2.5001."/>
-                    <trail LINESP="40"/>
-                </StoryText>
-            </PAGEOBJECT>
-            <PAGEOBJECT XPOS="208.0008" YPOS="2055.94818082745" OwnPage="0" ItemID="141772608" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="3.6" PCOLOR="Dark gray" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="71.4481808274465" gWidth="1152" gHeight="808.9984" LAYER="7"/>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="1540.0008" YPOS="556.6608" OwnPage="0" ItemID="147137984" PTYPE="4" WIDTH="1152" HEIGHT="67.5178074672048" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1152 0 L1152 67.5178 L0 67.5178 L0 0 Z" copath="M0 0 L1152 0 L1152 67.5178 L0 67.5178 L0 0 Z" gXpos="0" gYpos="0" gWidth="1152" gHeight="73.248180827447" LAYER="4" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="3700.0008" YPOS="672.6024" OwnPage="0" ItemID="146900512" PTYPE="4" WIDTH="144" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Dark blue" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" copath="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" gXpos="540" gYpos="115.9416" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle FONT="Poppins Regular" FONTSIZE="60" FCOLOR="Dark gray"/>
-                <ITEXT FONT="Poppins Regular" FONTSIZE="60" FCOLOR="Dark gray" CH="Results"/>
-                <trail/>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Medium" FONTSIZE="30" FCOLOR="White"/>
+                <ITEXT FONT="Poppins Medium" FONTSIZE="30" FCOLOR="White" CH="IRR"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="1540.0008" YPOS="628.108980827447" OwnPage="0" ItemID="141781104" PTYPE="5" WIDTH="1440" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="3.6" PCOLOR="Dark gray" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="71.4481808274469" gWidth="1152" gHeight="73.248180827447" LAYER="4"/>
-        <PAGEOBJECT XPOS="3205.2916" YPOS="2622.0016" OwnPage="0" ItemID="141795264" PTYPE="12" WIDTH="1061.4184" HEIGHT="170.000000000004" FRTYPE="0" CLIPEDIT="0" ANNAME="Group20" groupWidth="1061.4184" groupHeight="170.000000000004" groupClips="1" path="M0 0 L1061.42 0 L1061.42 170 L0 170 L0 0 Z" copath="M0 0 L1061.42 0 L1061.42 170 L0 170 L0 0 Z" gXpos="3205.2916" gYpos="2622.0016" gWidth="0" gHeight="0" LAYER="8">
-            <PAGEOBJECT XPOS="3205.2916" YPOS="2622.0016" OwnPage="0" ItemID="141786768" PTYPE="2" WIDTH="290.96" HEIGHT="170" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.08" LOCALSCY="0.08" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="ahkga-logo.tiff" PRFILE="Embedded GIMP built-in sRGB" EPROF="Embedded GIMP built-in sRGB" IRENDER="0" path="M0 0 L290.96 0 L290.96 170 L0 170 L0 0 Z" copath="M0 0 L290.96 0 L290.96 170 L0 170 L0 0 Z" gXpos="0" gYpos="0" gWidth="1061.4184" gHeight="170.000000000004" LAYER="8" NEXTITEM="-1" BACKITEM="-1"/>
-            <PAGEOBJECT XPOS="3604.2516" YPOS="2622.0016" OwnPage="0" ItemID="141783936" PTYPE="2" WIDTH="662.4584" HEIGHT="170" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.169687090163935" LOCALSCY="0.169687090163935" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="New HALO logo.tiff" PRFILE="Embedded GIMP built-in sRGB" EPROF="Embedded GIMP built-in sRGB" IRENDER="0" path="M0 0 L662.458 0 L662.458 170 L0 170 L0 0 Z" copath="M0 0 L662.458 0 L662.458 170 L0 170 L0 0 Z" gXpos="398.96" gYpos="3.63797880709171e-12" gWidth="1061.4184" gHeight="170.000000000004" LAYER="8" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="3844.0008" YPOS="672.6024" OwnPage="0" ItemID="146906432" PTYPE="4" WIDTH="360" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Dark blue" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" copath="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" gXpos="684" gYpos="115.9416" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Medium" FONTSIZE="30" FCOLOR="White"/>
+                <ITEXT FONT="Poppins Medium" FONTSIZE="30" FCOLOR="White" CH="Confidence interval"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="3160.0008" YPOS="2346.004" OwnPage="0" ItemID="141792432" PTYPE="12" WIDTH="1152" HEIGHT="167.9984" FRTYPE="0" CLIPEDIT="0" ANNAME="Group21" groupWidth="1152" groupHeight="167.9984" groupClips="1" path="M0 0 L1152 0 L1152 167.998 L0 167.998 L0 0 Z" copath="M0 0 L1152 0 L1152 167.998 L0 167.998 L0 0 Z" gXpos="3160.0008" gYpos="2346.004" gWidth="0" gHeight="0" LAYER="9">
-            <PAGEOBJECT XPOS="3160.0008" YPOS="2346.004" OwnPage="0" ItemID="147152784" PTYPE="4" WIDTH="1152" HEIGHT="67.5178074672048" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1152 0 L1152 67.5178 L0 67.5178 L0 0 Z" copath="M0 0 L1152 0 L1152 67.5178 L0 67.5178 L0 0 Z" gXpos="0" gYpos="0" gWidth="1152" gHeight="167.9984" LAYER="9" NEXTITEM="-1" BACKITEM="-1">
-                <StoryText>
-                    <DefaultStyle FONT="Poppins Regular" FONTSIZE="60" FCOLOR="Dark gray"/>
-                    <ITEXT FONT="Poppins Regular" FONTSIZE="60" FCOLOR="Dark gray" CH="Conclusions"/>
-                    <trail/>
-                </StoryText>
-            </PAGEOBJECT>
-            <PAGEOBJECT XPOS="3160.0008" YPOS="2431.5184" OwnPage="0" ItemID="147155744" PTYPE="4" WIDTH="1152" HEIGHT="82.4839999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1152 0 L1152 82.484 L0 82.484 L0 0 Z" copath="M0 0 L1152 0 L1152 82.484 L0 82.484 L0 0 Z" gXpos="0" gYpos="85.5144" gWidth="1152" gHeight="167.9984" LAYER="9" NEXTITEM="-1" BACKITEM="-1">
-                <StoryText>
-                    <DefaultStyle LINESP="40" FONT="Poppins Light" FONTSIZE="30" FCOLOR="Dark gray"/>
-                    <ITEXT FONT="Poppins Light" FONTSIZE="30" FCOLOR="Dark gray" CH="These correlates may be helpful when developing strategies to improve physical activity grades within specific countries."/>
-                    <trail LINESP="40"/>
-                </StoryText>
-            </PAGEOBJECT>
-            <PAGEOBJECT XPOS="3160.0008" YPOS="2417.45218082745" OwnPage="0" ItemID="141766944" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="3.6" PCOLOR="Dark gray" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="71.4481808274463" gWidth="1152" gHeight="167.9984" LAYER="9"/>
+        <PAGEOBJECT XPOS="4204.0008" YPOS="672.6024" OwnPage="0" ItemID="146927152" PTYPE="4" WIDTH="108" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Dark blue" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" copath="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" gXpos="1044" gYpos="115.9416" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Medium" FONTSIZE="30" FCOLOR="White"/>
+                <ITEXT FONT="Poppins Medium" FONTSIZE="30" FCOLOR="White" CH="P"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="719.4" OwnPage="0" ItemID="146903472" PTYPE="4" WIDTH="540" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" copath="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="162.7392" gWidth="1152" gHeight="591.1416" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="Intercept"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3700.0008" YPOS="719.4" OwnPage="0" ItemID="146921232" PTYPE="4" WIDTH="144" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" copath="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" gXpos="540" gYpos="162.7392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="7.69"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3844.0008" YPOS="719.4" OwnPage="0" ItemID="146912352" PTYPE="4" WIDTH="360" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" copath="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" gXpos="684" gYpos="162.7392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="0.35 - 168.64"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="4204.0008" YPOS="719.4" OwnPage="0" ItemID="146930112" PTYPE="4" WIDTH="108" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" copath="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" gXpos="1044" gYpos="162.7392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="0.20"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="766.2" OwnPage="0" ItemID="146933072" PTYPE="4" WIDTH="540" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" copath="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="209.5392" gWidth="1152" gHeight="591.1416" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="Distance to equator (km)"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3700.0008" YPOS="766.2" OwnPage="0" ItemID="146936032" PTYPE="4" WIDTH="144" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" copath="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" gXpos="540" gYpos="209.5392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="1.00"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3844.0008" YPOS="766.2" OwnPage="0" ItemID="146909392" PTYPE="4" WIDTH="360" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" copath="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" gXpos="684" gYpos="209.5392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="0.99 - 1.00"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="4204.0008" YPOS="766.2" OwnPage="0" ItemID="146938992" PTYPE="4" WIDTH="108" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" copath="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" gXpos="1044" gYpos="209.5392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="0.85"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="813" OwnPage="0" ItemID="146941952" PTYPE="4" WIDTH="540" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" copath="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="256.3392" gWidth="1152" gHeight="591.1416" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="Gross national income per capita"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3700.0008" YPOS="813" OwnPage="0" ItemID="146915312" PTYPE="4" WIDTH="144" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" copath="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" gXpos="540" gYpos="256.3392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="0.99"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3844.0008" YPOS="813" OwnPage="0" ItemID="146944912" PTYPE="4" WIDTH="360" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" copath="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" gXpos="684" gYpos="256.3392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="0.99 - 1.00"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="4204.0008" YPOS="813" OwnPage="0" ItemID="146947872" PTYPE="4" WIDTH="108" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" copath="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" gXpos="1044" gYpos="256.3392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="&lt;0.01"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="810.7" OwnPage="0" ItemID="153117984" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="254.0392" gWidth="1152" gHeight="591.1416" LAYER="10"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="763.9" OwnPage="0" ItemID="161089376" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="207.2392" gWidth="1152" gHeight="591.1416" LAYER="10"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="859.8" OwnPage="0" ItemID="138127360" PTYPE="4" WIDTH="540" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" copath="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="303.1392" gWidth="1152" gHeight="591.1416" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="Gender Inequality Index"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3700.0008" YPOS="859.8" OwnPage="0" ItemID="138136240" PTYPE="4" WIDTH="144" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" copath="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" gXpos="540" gYpos="303.1392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="0.99"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3844.0008" YPOS="859.8" OwnPage="0" ItemID="138165840" PTYPE="4" WIDTH="360" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" copath="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" gXpos="684" gYpos="303.1392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="0.97 - 1.00"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="4204.0008" YPOS="859.8" OwnPage="0" ItemID="146950832" PTYPE="4" WIDTH="108" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" copath="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" gXpos="1044" gYpos="303.1392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" LANGUAGE="en_CA"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" LANGUAGE="en_CA" CH="0.10"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="857.5" OwnPage="0" ItemID="147093920" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="300.8392" gWidth="1152" gHeight="591.1416" LAYER="10"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="906.6" OwnPage="0" ItemID="146953792" PTYPE="4" WIDTH="540" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" copath="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="349.9392" gWidth="1152" gHeight="591.1416" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="Gini"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3700.0008" YPOS="906.6" OwnPage="0" ItemID="153263792" PTYPE="4" WIDTH="144" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" copath="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" gXpos="540" gYpos="349.9392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="0.98"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3844.0008" YPOS="906.6" OwnPage="0" ItemID="153251952" PTYPE="4" WIDTH="360" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" copath="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" gXpos="684" gYpos="349.9392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="0.97 - 1.00"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="4204.0008" YPOS="906.6" OwnPage="0" ItemID="153275632" PTYPE="4" WIDTH="108" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" copath="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" gXpos="1044" gYpos="349.9392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="0.03"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="904.3" OwnPage="0" ItemID="147099584" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="347.6392" gWidth="1152" gHeight="591.1416" LAYER="10"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="953.4" OwnPage="0" ItemID="153254912" PTYPE="4" WIDTH="540" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" copath="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="396.7392" gWidth="1152" gHeight="591.1416" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="Life expectancy (at birth)"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3700.0008" YPOS="953.4" OwnPage="0" ItemID="153278592" PTYPE="4" WIDTH="144" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" copath="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" gXpos="540" gYpos="396.7392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="1.00"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3844.0008" YPOS="953.4" OwnPage="0" ItemID="153281552" PTYPE="4" WIDTH="360" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" copath="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" gXpos="684" gYpos="396.7392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="0.97 - 1.03"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="4204.0008" YPOS="953.4" OwnPage="0" ItemID="153257872" PTYPE="4" WIDTH="108" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" copath="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" gXpos="1044" gYpos="396.7392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="0.91"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1000.2" OwnPage="0" ItemID="153266752" PTYPE="4" WIDTH="540" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" copath="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="443.5392" gWidth="1152" gHeight="591.1416" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="Public health expenditures (% GNI)"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3700.0008" YPOS="1000.2" OwnPage="0" ItemID="153269712" PTYPE="4" WIDTH="144" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" copath="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" gXpos="540" gYpos="443.5392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="1.18"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3844.0008" YPOS="1000.2" OwnPage="0" ItemID="153260832" PTYPE="4" WIDTH="360" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" copath="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" gXpos="684" gYpos="443.5392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="1.07 - 1.31"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="4204.0008" YPOS="1000.2" OwnPage="0" ItemID="153272672" PTYPE="4" WIDTH="108" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" copath="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" gXpos="1044" gYpos="443.5392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="&lt;0.01"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1047" OwnPage="0" ItemID="147588912" PTYPE="4" WIDTH="540" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" copath="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="490.3392" gWidth="1152" gHeight="591.1416" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="Population density (people/km"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FEATURES="inherit superscript" FCOLOR="Dark gray" CH="2"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH=")"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3700.0008" YPOS="1047" OwnPage="0" ItemID="147597792" PTYPE="4" WIDTH="144" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" copath="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" gXpos="540" gYpos="490.3392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="1.00"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3844.0008" YPOS="1047" OwnPage="0" ItemID="147582992" PTYPE="4" WIDTH="360" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" copath="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" gXpos="684" gYpos="490.3392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="0.99 - 1.00"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="4204.0008" YPOS="1047" OwnPage="0" ItemID="147577072" PTYPE="4" WIDTH="108" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" copath="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" gXpos="1044" gYpos="490.3392" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="0.40"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="951.1" OwnPage="0" ItemID="147105248" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="394.4392" gWidth="1152" gHeight="591.1416" LAYER="10"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="997.9" OwnPage="0" ItemID="147091088" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="441.2392" gWidth="1152" gHeight="591.1416" LAYER="10"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1044.6352" OwnPage="0" ItemID="151826752" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="487.9744" gWidth="1152" gHeight="591.1416" LAYER="10"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1091.5" OwnPage="0" ItemID="151835248" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="534.8392" gWidth="1152" gHeight="591.1416" LAYER="10"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1091.5024" OwnPage="0" ItemID="151829584" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="3.6" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="534.8416" gWidth="1152" gHeight="591.1416" LAYER="10"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1104.6024" OwnPage="0" ItemID="171767456" PTYPE="4" WIDTH="1031.9992" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1032 0 L1032 43.2 L0 43.2 L0 0 Z" copath="M0 0 L1032 0 L1032 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="547.9416" gWidth="1152" gHeight="591.1416" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="IRR: incidence rate ratio; GNI: gross national income"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1376.9648" OwnPage="0" ItemID="171740816" PTYPE="4" WIDTH="1152" HEIGHT="76.3391999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1152 0 L1152 76.3392 L0 76.3392 L0 0 Z" copath="M0 0 L1152 0 L1152 76.3392 L0 76.3392 L0 0 Z" gXpos="0" gYpos="121.1624" gWidth="1152" gHeight="591.1416" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins SemiBold" FONTSIZE="30" FCOLOR="Dark gray" CH="Table 2."/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH=" Number of incomplete grades regressed on sociodemographic predictors using a Poisson model (model 2)."/>
+                <trail LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1492.9064" OwnPage="0" ItemID="171749696" PTYPE="4" WIDTH="540" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Dark blue" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" copath="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="237.104" gWidth="1152" gHeight="591.1416" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Medium" FONTSIZE="30" FCOLOR="White"/>
+                <ITEXT FONT="Poppins Medium" FONTSIZE="30" FCOLOR="White" CH="Predictor"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3700.0008" YPOS="1492.9064" OwnPage="0" ItemID="171755616" PTYPE="4" WIDTH="144" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Dark blue" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" copath="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" gXpos="540" gYpos="237.104" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Medium" FONTSIZE="30" FCOLOR="White"/>
+                <ITEXT FONT="Poppins Medium" FONTSIZE="30" FCOLOR="White" CH="IRR"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3844.0008" YPOS="1492.9064" OwnPage="0" ItemID="171761536" PTYPE="4" WIDTH="360" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Dark blue" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" copath="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" gXpos="684" gYpos="237.104" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Medium" FONTSIZE="30" FCOLOR="White"/>
+                <ITEXT FONT="Poppins Medium" FONTSIZE="30" FCOLOR="White" CH="Confidence interval"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="4204.0008" YPOS="1492.9064" OwnPage="0" ItemID="171770416" PTYPE="4" WIDTH="108" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Dark blue" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" copath="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" gXpos="1044" gYpos="237.104" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Medium" FONTSIZE="30" FCOLOR="White"/>
+                <ITEXT FONT="Poppins Medium" FONTSIZE="30" FCOLOR="White" CH="P"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1539.704" OwnPage="0" ItemID="171746736" PTYPE="4" WIDTH="540" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" copath="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="283.9016" gWidth="1152" gHeight="591.1416" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="Intercept"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3700.0008" YPOS="1539.704" OwnPage="0" ItemID="171752656" PTYPE="4" WIDTH="144" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" copath="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" gXpos="540" gYpos="283.9016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="0.01"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3844.0008" YPOS="1539.704" OwnPage="0" ItemID="171758576" PTYPE="4" WIDTH="360" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" copath="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" gXpos="684" gYpos="283.9016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="0.00 - 0.88"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="4204.0008" YPOS="1539.704" OwnPage="0" ItemID="171764496" PTYPE="4" WIDTH="108" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" copath="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" gXpos="1044" gYpos="283.9016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="0.05"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1586.504" OwnPage="0" ItemID="166062160" PTYPE="4" WIDTH="540" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" copath="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="330.7016" gWidth="1152" gHeight="591.1416" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="Distance to equator (km)"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3700.0008" YPOS="1586.504" OwnPage="0" ItemID="166059200" PTYPE="4" WIDTH="144" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" copath="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" gXpos="540" gYpos="330.7016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="1.00"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3844.0008" YPOS="1586.504" OwnPage="0" ItemID="166068080" PTYPE="4" WIDTH="360" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" copath="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" gXpos="684" gYpos="330.7016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="0.99 - 1.00"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="4204.0008" YPOS="1586.504" OwnPage="0" ItemID="166065120" PTYPE="4" WIDTH="108" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" copath="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" gXpos="1044" gYpos="330.7016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="0.94"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1633.304" OwnPage="0" ItemID="166071040" PTYPE="4" WIDTH="540" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" copath="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="377.5016" gWidth="1152" gHeight="591.1416" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="Gross national income per capita"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3700.0008" YPOS="1633.304" OwnPage="0" ItemID="166044400" PTYPE="4" WIDTH="144" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" copath="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" gXpos="540" gYpos="377.5016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="1.00"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3844.0008" YPOS="1633.304" OwnPage="0" ItemID="166053280" PTYPE="4" WIDTH="360" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" copath="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" gXpos="684" gYpos="377.5016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="0.99 - 1.00"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="4204.0008" YPOS="1633.304" OwnPage="0" ItemID="166074000" PTYPE="4" WIDTH="108" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" copath="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" gXpos="1044" gYpos="377.5016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="0.40"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1631.004" OwnPage="0" ItemID="151872064" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="375.2016" gWidth="1152" gHeight="591.1416" LAYER="11"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1584.204" OwnPage="0" ItemID="151852240" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="328.4016" gWidth="1152" gHeight="591.1416" LAYER="11"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1680.104" OwnPage="0" ItemID="166056240" PTYPE="4" WIDTH="540" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" copath="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="424.3016" gWidth="1152" gHeight="591.1416" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="Gender Inequality Index"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3700.0008" YPOS="1680.104" OwnPage="0" ItemID="166047360" PTYPE="4" WIDTH="144" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" copath="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" gXpos="540" gYpos="424.3016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="1.03"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3844.0008" YPOS="1680.104" OwnPage="0" ItemID="166076960" PTYPE="4" WIDTH="360" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" copath="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" gXpos="684" gYpos="424.3016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="1.00 - 1.07"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="4204.0008" YPOS="1680.104" OwnPage="0" ItemID="166050320" PTYPE="4" WIDTH="108" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" copath="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" gXpos="1044" gYpos="424.3016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" LANGUAGE="en_CA"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" LANGUAGE="en_CA" CH="0.08"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1677.804" OwnPage="0" ItemID="151869232" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="422.0016" gWidth="1152" gHeight="591.1416" LAYER="11"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1726.904" OwnPage="0" ItemID="166091760" PTYPE="4" WIDTH="540" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" copath="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="471.1016" gWidth="1152" gHeight="591.1416" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="Gini"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3700.0008" YPOS="1726.904" OwnPage="0" ItemID="166103600" PTYPE="4" WIDTH="144" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" copath="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" gXpos="540" gYpos="471.1016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="1.03"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3844.0008" YPOS="1726.904" OwnPage="0" ItemID="166085840" PTYPE="4" WIDTH="360" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" copath="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" gXpos="684" gYpos="471.1016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="1.00 - 1.06"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="4204.0008" YPOS="1726.904" OwnPage="0" ItemID="166100640" PTYPE="4" WIDTH="108" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" copath="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" gXpos="1044" gYpos="471.1016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="0.09"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1724.604" OwnPage="0" ItemID="151880560" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="468.8016" gWidth="1152" gHeight="591.1416" LAYER="11"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1773.704" OwnPage="0" ItemID="166106560" PTYPE="4" WIDTH="540" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" copath="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="517.9016" gWidth="1152" gHeight="591.1416" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="Life expectancy (at birth)"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3700.0008" YPOS="1773.704" OwnPage="0" ItemID="166088800" PTYPE="4" WIDTH="144" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" copath="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" gXpos="540" gYpos="517.9016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="1.05"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3844.0008" YPOS="1773.704" OwnPage="0" ItemID="166079920" PTYPE="4" WIDTH="360" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" copath="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" gXpos="684" gYpos="517.9016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="1.00 - 1.11"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="4204.0008" YPOS="1773.704" OwnPage="0" ItemID="166082880" PTYPE="4" WIDTH="108" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" copath="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" gXpos="1044" gYpos="517.9016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="0.08"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1820.504" OwnPage="0" ItemID="166094720" PTYPE="4" WIDTH="540" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" copath="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="564.7016" gWidth="1152" gHeight="591.1416" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="Public health expenditures (% GNI)"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3700.0008" YPOS="1820.504" OwnPage="0" ItemID="166097680" PTYPE="4" WIDTH="144" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" copath="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" gXpos="540" gYpos="564.7016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="1.11"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3844.0008" YPOS="1820.504" OwnPage="0" ItemID="114750240" PTYPE="4" WIDTH="360" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" copath="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" gXpos="684" gYpos="564.7016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="0.92 - 1.35"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="4204.0008" YPOS="1820.504" OwnPage="0" ItemID="114756160" PTYPE="4" WIDTH="108" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" copath="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" gXpos="1044" gYpos="564.7016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="0.27"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1867.304" OwnPage="0" ItemID="114765040" PTYPE="4" WIDTH="540" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" copath="M0 0 L540 0 L540 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="611.5016" gWidth="1152" gHeight="591.1416" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="Population density (people/km"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FEATURES="inherit superscript" FCOLOR="Dark gray" CH="2"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH=")"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3700.0008" YPOS="1867.304" OwnPage="0" ItemID="114768000" PTYPE="4" WIDTH="144" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" copath="M0 0 L144 0 L144 43.2 L0 43.2 L0 0 Z" gXpos="540" gYpos="611.5016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="1.00"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3844.0008" YPOS="1867.304" OwnPage="0" ItemID="114741360" PTYPE="4" WIDTH="360" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" copath="M0 0 L360 0 L360 43.2 L0 43.2 L0 0 Z" gXpos="684" gYpos="611.5016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="1.00 - 1.00"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="4204.0008" YPOS="1867.304" OwnPage="0" ItemID="114747280" PTYPE="4" WIDTH="108" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" copath="M0 0 L108 0 L108 43.2 L0 43.2 L0 0 Z" gXpos="1044" gYpos="611.5016" gWidth="1152" gHeight="591.1416" ALIGN="1" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="40" FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Bold" FONTSIZE="30" FCOLOR="Dark gray" CH="0.01"/>
+                <trail ALIGN="1" LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1771.404" OwnPage="0" ItemID="151855072" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="515.6016" gWidth="1152" gHeight="591.1416" LAYER="11"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1818.204" OwnPage="0" ItemID="151857904" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="562.4016" gWidth="1152" gHeight="591.1416" LAYER="11"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1864.9392" OwnPage="0" ItemID="151860736" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="609.1368" gWidth="1152" gHeight="591.1416" LAYER="11"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1911.804" OwnPage="0" ItemID="151863568" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="656.0016" gWidth="1152" gHeight="591.1416" LAYER="11"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1911.8064" OwnPage="0" ItemID="147076928" PTYPE="5" WIDTH="1152" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="3.6" PCOLOR2="Dark gray" PLINEART="1" path="" gXpos="0" gYpos="656.004" gWidth="1152" gHeight="591.1416" LAYER="11"/>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1924.9064" OwnPage="0" ItemID="114770960" PTYPE="4" WIDTH="1031.9992" HEIGHT="43.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1032 0 L1032 43.2 L0 43.2 L0 0 Z" copath="M0 0 L1032 0 L1032 43.2 L0 43.2 L0 0 Z" gXpos="0" gYpos="669.104" gWidth="1152" gHeight="591.1416" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="IRR: incidence rate ratio; GNI: gross national income"/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1151.4024" OwnPage="0" ItemID="114744320" PTYPE="4" WIDTH="1031.9992" HEIGHT="85.3976" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1032 0 L1032 85.3976 L0 85.3976 L0 0 Z" copath="M0 0 L1032 0 L1032 85.3976 L0 85.3976 L0 0 Z" gXpos="0" gYpos="594.7416" gWidth="1152" gHeight="591.1416" LAYER="10" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="Note: statistically significant correlates with estimates that include 1.00 is a function of rounding to two decimal places. "/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="3160.0008" YPOS="1971.7072" OwnPage="0" ItemID="114779840" PTYPE="4" WIDTH="1031.9992" HEIGHT="85.3976" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1032 0 L1032 85.3976 L0 85.3976 L0 0 Z" copath="M0 0 L1032 0 L1032 85.3976 L0 85.3976 L0 0 Z" gXpos="0" gYpos="1415.0464" gWidth="1152" gHeight="591.1416" LAYER="11" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+                <ITEXT FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray" CH="Note: statistically significant correlates with estimates that include 1.00 is a function of rounding to two decimal places. "/>
+                <trail LINESP="40" FONT="Poppins Regular" FONTSIZE="30" FCOLOR="Dark gray"/>
+            </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
